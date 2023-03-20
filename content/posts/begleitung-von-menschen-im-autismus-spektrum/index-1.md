@@ -44,7 +44,11 @@ Wir haben ca. 17 Oberstufen Schuler\*innen von 12-18 Jahre. Ein typischer Alltag
 
 {{<box>}}
 
+
+
 Autismuslink ist eine Schule für Jugendliche im Autismus-Spektrum. Die Schule unterrichtet nach den Grundlagen des Lehrnplans 21. Das Ziel ist es, die Schüler*innen individuell vorzuberiten, damit sie im Arbeitsmarkt Fuss fassen können.
+
+
 
 {{</box>}}
 
