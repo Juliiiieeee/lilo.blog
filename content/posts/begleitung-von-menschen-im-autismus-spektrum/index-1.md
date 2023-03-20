@@ -6,7 +6,7 @@ pinned = false
 +++
 {{<lead>}}
 
-Roman Roner arbeitet bei Autismumuslink. Einer Schule für Jugendliche im Autismus-Spektrum. Der Schwerpunk liegt auf der Gestaltung des Sportunterrichts und den Auswirkungen von Sport auf Menschen im Autismus-Spektrum.
+Roman Roner arbeitet bei Autismumuslink, einer Schule für Jugendliche im Autismus-Spektrum. Der Schwerpunkt unseres Interviews, liegt auf der Gestaltung des Sportunterrichts und den Auswirkungen von Sport auf  Menschen im Autismus-Spektrum.
 
 {{</lead>}}
 
