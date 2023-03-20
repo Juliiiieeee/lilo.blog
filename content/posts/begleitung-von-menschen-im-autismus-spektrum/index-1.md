@@ -58,6 +58,8 @@ Autismuslink ist eine Schule für Jugendliche im Autismus-Spektrum. Die Schule u
 
 
 
+
+
 **Wie muss der Sportunterricht für Menschen auf dem Spektrum gestaltet sein? Was muss man da beachten?** 
 
 Die meisten Schuler*innen bei uns treiben kein normaler Sportunterricht da der Sport das erste ist, für was man dispension wird. Im Sportunterricht passiert sehr viel somit kommt schnell eine Reizüberflutung. Wir gestallten den Sportunterricht so, da wir keine Halle haben, haben wir Jogamatten gekauft. Darauf machen wir Kraft Übungen oder gestalten ein Posten lauf mit ihnen. Wenn schönes Wetter ist, können wir raus gehen, um zu laufen oder Ping Pong spielen. Meistens ist Ping Pong sehr praktischer im Vergleich zu einem Sport wie z.B Fussball da man sich nicht so viel bewegen muss und man nicht so viel schwitzt. Beim Schwitzen ist das Problem, das man den Schweiss abduschen muss und da entstehen so viele Probleme, dass das ganze sehr schwierig macht. Wir versuchen möglichst viele Reize aus dem Sportunterricht zu entfernen. Beim Sportunterricht sind wir noch voll im Entwickeln was wir mit welchem/welcher Schüler/Schülerin machen können.  
