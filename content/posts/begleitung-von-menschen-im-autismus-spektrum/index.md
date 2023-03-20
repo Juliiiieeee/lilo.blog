@@ -16,7 +16,7 @@ Roman Roner arbeitet bei Autismumuslink. Einer Schule für Jugendliche im Autism
 
 Für mich spielt es keine Rolle, ob sie eine Diagnose haben oder nicht. Ich denke wir sind alle sehr verschieden und haben spezielle Eigenschaften. Innerhalb von der Diagnose, gibt es viele Unterschiede. Jede Person hat andere Fähigkeiten oder Schwierigkeiten und das ist der Aspekt, der für mich spannend ist. Der zweite Teil der Frage, wieso ich es gerne mache und hier bin, ist weil mein Schwager auch auf dem Spektrum ist, durch das wurde ich auf dieses Thema aufmerksam. Für mich ist es ein schönes Erlebnis in einem Umfeld zu arbeiten, wo ich individuell auf die Menschen eingehen kann.  
 
-"Für mich ist es ein schönes Erlebnis in einem Umfeld zu arbeiten, wo ich individuell auf die Menschen eingehen kann".
+> "Für mich ist es ein schönes Erlebnis in einem Umfeld zu arbeiten, wo ich individuell auf die Menschen eingehen kann".
 
 **Was sind Herausforderungen im Alltag mit Menschen auf dem Autismus Spektrum?** 
 
