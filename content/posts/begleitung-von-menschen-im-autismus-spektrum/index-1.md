@@ -16,10 +16,6 @@ Roman Roner arbeitet bei Autismumuslink. Einer Schule für Jugendliche im Autism
 
 
 
-
-
-
-
 ![Arbeitsplatz für Schüler*innen](bild-autismuslink.jpg)
 
 **Sie arbeiten mit betroffenen Menschen und was macht dieses Menschen besonders und warum arbeiten sie gerne mit ihnen zusammen?**  
@@ -46,17 +42,11 @@ Wir haben ca. 17 Oberstufen Schuler\*innen von 12-18 Jahre. Ein typischer Alltag
 
 
 
-
-
-
-
 {{<box>}}
 
 Autismuslink ist eine Schule für Jugendliche im Autismus-Spektrum. Die Schule unterrichtet nach den Grundlagen des Lehrnplans 21. Das Ziel ist es, die Schüler*innen individuell vorzuberiten, damit sie im Arbeitsmarkt Fuss fassen können.
 
 {{</box>}}
-
-
 
 
 
@@ -81,10 +71,6 @@ Die meisten Schuler*innen bei uns treiben kein normaler Sportunterricht da der S
 Roman Roner ist Schulleiter der Schule Autismuslink und arbeitet seit 5 Jahren mit den Jugendlichen. Da sein Schwager im Autismus-Spektrum ist wurde er auf das Thema aufmekrsam und interesierte sich dafür. Die Arbeit bei Autismuslink ist für ihn schön, da er individuell auf die Schüller*innen eingehen kann und ihnen somit eine Unterstützungsmöglichkeit bietet.
 
 {{</box>}}
-
-
-
-
 
 
 
