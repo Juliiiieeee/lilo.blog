@@ -48,6 +48,8 @@ Wir haben ca. 17 Oberstufen Schuler\*innen von 12-18 Jahre. Ein typischer Alltag
 
 
 
+
+
 {{<box>}}
 
 Autismuslink ist eine Schule für Jugendliche im Autismus-Spektrum. Die Schule unterrichtet nach den Grundlagen des Lehrnplans 21. Das Ziel ist es, die Schüler*innen individuell vorzuberiten, damit sie im Arbeitsmarkt Fuss fassen können.
@@ -101,8 +103,6 @@ Für mich ist es sehr klar, wenn man sehr gut werden will in einer Disziplin mus
 **Was kann sie Gesellschaft von Menschen im AS lernen?** 
 
 Ich würde die Frage, bezogen auf mich im Vergleich zum «typischen» Menschen aus dem Autismus-Spektrum, folgendermassen beantworten. Ich würde gerne lernen logischer zu denken und gründlicher/genauer zu arbeiten. Ich hätte gerne auch eine bessere Merkfähigkeit. Was ich noch sehr wichtig finde zu sagen ist das wir alle wahrscheinlich «autistische Züge» haben, wenn wir uns mit den grundsätzlichen Symptomen der Diagnose auseinandersetzen und versuchen Vergleiche herzustellen.Darum finde ich, die Diagnose soll nicht trennen, sondern soll uns Neurotypen sensibler machen für die Thematik und so die Gesellschaft dazu bringen den Betroffenen passende Unterstützungsmöglichkeiten zur Verfügung zu stellen, damit sie den vollen Zugang zur Gesellschaft erhalten. 
-
-
 
 
 
