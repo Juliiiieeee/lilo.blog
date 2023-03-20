@@ -40,11 +40,17 @@ Autismuslink ist eine Schule für Jugendliche im Autismus-Spektrum. Die Schule u
 
 Die meisten Schuler*innen bei uns treiben kein normaler Sportunterricht da der Sport das erste ist, für was man dispension wird. Im Sportunterricht passiert sehr viel somit kommt schnell eine Reizüberflutung. Wir gestallten den Sportunterricht so, da wir keine Halle haben, haben wir Jogamatten gekauft. Darauf machen wir Kraft Übungen oder gestalten ein Posten lauf mit ihnen. Wenn schönes Wetter ist, können wir raus gehen, um zu laufen oder Ping Pong spielen. Meistens ist Ping Pong sehr praktischer im Vergleich zu einem Sport wie z.B Fussball da man sich nicht so viel bewegen muss und man nicht so viel schwitzt. Beim Schwitzen ist das Problem, das man den Schweiss abduschen muss und da entstehen so viele Probleme, dass das ganze sehr schwierig macht. Wir versuchen möglichst viele Reize aus dem Sportunterricht zu entfernen. Beim Sportunterricht sind wir noch voll im Entwickeln was wir mit welchem/welcher Schüler/Schülerin machen können.  
 
+
+
 {{<box>}}
 
 Roman Roner ist Schulleiter der Schule Autismuslink und arbeitet seit 5 Jahren mit den Jugendlichen. Da sein Schwager im Autismus-Spektrum ist wurde er auf das Thema aufmekrsam und interesierte sich dafür. Die Arbeit bei Autismuslink ist für ihn schön, da er individuell auf die Schüller*innen eingehen kann und ihnen somit eine Unterstützungsmöglichkeit bietet.
 
+
+
 {{</box>}}
+
+
 
 **Wir haben in einer Studie der Uni-Basel gelesen das Kinder im Autismus Spektrum den Sport machen besser schlafen. Da Menschen im Autismus Spektrum oft Schlafstörungen haben ist das toll. Wie beurteilen sie das?**   
 
