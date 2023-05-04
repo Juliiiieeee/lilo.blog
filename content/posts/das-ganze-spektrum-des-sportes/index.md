@@ -22,9 +22,15 @@ Die Krankheit Autismus wird auf einem Spektrum definiert und je nachdem, wo man 
 
  {{</box>}}
 
+
+
 **Reizüberflutung**  
 
 Die Frustration, in einem vollen Zug zu sitzen. Wir alle haben das Gefühl sicherlich schon erlebt. Multipliziert man die eigenen Emotionen mit 1000 und man kann sich vorstellen, wie sich jemand aus dem Spektrum fühlen könnte. Als Neurotypen sind wir normalerweise in der Lage zu verstehen, warum wir uns gerade so fühlen und entweder einen Weg finden, damit umzugehen oder es schließlich zu vergessen. Für Menschen im Spektrum können jedoch "kleine“ Veränderungen in ihrem Tagesablauf wie z. B. eine andere Zahnpastamarke oder ein helleres Licht als gewöhnlich einen negativen Einfluss auf den Rest ihres Tages haben. Reize können schnell überwältigend sein und es kann für Menschen auf dem Spektrum schwierig sein, ihre Emotionen so zu kontrollieren, wie Menschen, die nicht auf dem Spektrum sind, es tun. Autismuslink basiert auf dem Prinzip, sich an die Schüler anzupassen, indem sie Veränderungen in kleinen Schritten tun, wie zum Beispiel das Licht während des Unterrichts dimmen. Die Lehrpersonen können jedoch nicht alle Stimulanzien vollständig vermeiden, das ist einfach nicht möglich. Ein sehr häufiges Beispiel ist beim Sport. 
+
+
+
+
 
 **Unterrichtsgestaltung Sport**
 
@@ -37,6 +43,8 @@ Nach einer anstrengenden Sport-Einheit verspüren wir das Verlangen nach einer k
 Roman Rohner ist der Schulleiter der Schule Autismuslink und arbeitet seit 5 Jahren mit den Jugendlichen. Die Freude an seiner Arbeit liegt vor allem darin, dass er Individuell auf die Menschen eingehen kann. Ihm spielt es keine Rolle ob die Menschen eine Diagnose haben oder nicht, da er findet, dass alle Menschen ihre eigenen Eigenschaften und Fähigkeiten haben. 
 
  {{</box>}}
+
+
 
 «**Hey säg dini meinig versuch dini meinig z formuliere**»
 
