@@ -6,7 +6,7 @@ pinned = false
 +++
 {{<lead>}}
 
-Die Schule Autismuslink unterrichtet Schüler:innen auf dem Autismus-Spektrum. Roman Rohner, der Schulleiter, gewährt uns einen Einblick in den interessanten und herausfordernden Schulalltag der Schüler:innen und Lehrpersonen dieser speziellen Schule. Eine besondere Bedeutung kommt dabei dem Fach Sport zu. Bewegung scheint sich besonders positiv auf die Betroffenen auszuwirken.
+Die Schule Autismuslink unterrichtet Schüler:innen auf dem Autismus-Spektrum. Roman Roner, der Schulleiter, gewährt uns einen Einblick in den interessanten und herausfordernden Schulalltag der Schüler:innen und Lehrpersonen dieser speziellen Schule. Eine besondere Bedeutung kommt dabei dem Fach Sport zu. Bewegung scheint sich besonders positiv auf die Betroffenen auszuwirken.
 
 {{</lead>}}
 
@@ -40,11 +40,7 @@ Roman Roner ist der Schulleiter der Schule Autismuslink und arbeitet seit 5 Jahr
 
  {{</box>}}
 
-
-
 «**Hey säg dini meinig versuch dini meinig z formuliere**»
-
-
 
 Herausforderungen sind individuell. „Obwohl ich schon seit 5 Jahren mit den Jugendlichen arbeite, muss ich mich auch immer wieder daran erinnern: Was ist Glück, wie definiert man Glück?»
 
