@@ -35,7 +35,9 @@ dr mit meine kes risiko 
 
  mir schwüme eifach drvo.
 
-Ner iz eichouz eis ga zieä mir liebes hie
+Ner iz eichouz eis ga zieä 
+
+mir liebes hie
 
 Nebedran ghöri spilendi chinder
 
