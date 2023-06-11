@@ -10,29 +10,19 @@ Im Zuge des Abschlussprojekt in der Informatik haben wir uns die Frage gestellt 
 
  {{</lead>}}
 
-
-
-
-
 ** *Aufteilung***
 
 Bei unserem Projekt hatte jede Person seine eigene Aufgabe. Danae hat den Dong geschrieben, Danielle klaviergespielt und Juliette das Musikvideo für den Song gestaltet. Durch das Aufteilen des Projekts ging auch das zusammenarbeiten einfacher da wir genau wussten was machen.
-
- 
 
 ![](img_0569.jpg)
 
 ***Entwicklung Prozess***
 
-Nach dem Danae den Song geschrieben (nochmal überarbeitet hat) ging es daran den Song aufzunehmen. Das war wahrscheinlich der schwierigste Teil unseres Projekts, da alles bei der Aufnahme perfekt sein muss. wärnd dem Danae und Danielle den Song aufgenommen haben hat Juliette gefilmt damit man im Musikvideo sehen kann wie das der Song entstanden ist.
-
-
+Nach dem Danae den Song geschrieben ging es daran den Song aufzunehmen. Das war wahrscheinlich der schwierigste Teil unseres Projekts, da alles bei der Aufnahme perfekt sein muss. wärnd dem Danae und Danielle den Song aufgenommen haben hat Juliette gefilmt damit man im Musikvideo sehen kann wie das der Song entstanden ist.
 
 ***Probleme***
 
 Juliette und Danielle haben noch ein Rap teil vorbereitet, um ihn in Danaes Song zu schneiden, da wir es eine lustige Idee faden, wenn alle mal im Song vorkamen. Das Problem aber war dann das der beat der Rap teil nicht ganz mit dem Song aufging. Wir haben uns dann entschieden den Rap teil weg zu lassen da es nicht schön klinkte. Das Nächste Mal wenn wir ein Song schreiben würden wir bevor wir den Rap teil schreiben genauer hinschauen welcher Beat wir brauchen.
-
-
 
 ***Fazit***
 
