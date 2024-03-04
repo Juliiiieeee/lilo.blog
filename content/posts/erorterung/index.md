@@ -6,31 +6,19 @@ pinned = false
 +++
 Die Frage, mit der ich mich auseinandersetze ist, können Menschen mit Legasthenie/Lese-Rechtschreibschwäche ihre Defizite durch mehr Üben aufheben?
 
- 
-
 Ich setze mich in meiner MA mit dem Thema auseinander ob und wie sich Musiktherapie positiv auf den Verlauf einer Legasthenie auswirken kann. Damit ich diese Frage beantworten kann, ist es wichtig zu wissen, welche Symptome Menschen haben, die eine LRS-Diagnose haben und wie die Symptome therapiert werden können.
-
- 
 
 Lesen und schreiben ist für die Kinder am Anfang ein unverständlicher „Code“ aus unbekannten Symbolen. Eine Legasthenie bewirkt, dass dieser Code nicht in der üblichen Art und Weise entziffert werden kann (BVL Bundesverband Legasthenie & Dyskalkulie e.V., 2024)
 
 Die Symptome einer LRS sind einerseits im Bereich des Lesens und Leseverständnis (z.B. Auslassen, Ersetzen, Vertauschen oder Ergänzen von Wörtern, geringes Lesetempo, Schwierigkeiten, Gelesenes wiederzugeben etc.) und andererseits im Bereich des Rechtschreibens (hohe Fehlerzahl) (Schleider, 2009, S. 16f)
 
- 
 
-![Ein Bild, das Handschrift, Büroausstattung, Text, Brief enthält.
 
-Automatisch generierte Beschreibung](blob:https://julietteb.netlify.app/77d7cfd5-058b-4f2d-a17c-18224884e13b)
+![](bildschirmfoto-2024-03-04-um-12.53.41.png)
+
+
 
 **Abbildung 1** Wie kann man Legasthenie erkennen? (Quelle: BVL Bundesverband Legasthenie & Dyskalkulie e.V.)
-
- 
-
- 
-
- 
-
- 
 
 Durch eine geeignete Unterstützung bei Kindern mit einer LRS können gewisse Defizite aufgeholt werden. Laut Klicpera et al. (2003, S. 231) sollen zahlreiche Studien gezeigt haben, dass mit Training eine Erleichterung beim Erlernen des Lesens und Rechtschreibens einhergeht und der Ausbildung von Lese-und Rechtschreibschwierigkeiten vorgebeugt werden. Damit man mit dem Training eine möglichst große Verbesserung erzielen kann soll darauf geachtet werden, dass
 
@@ -46,30 +34,14 @@ Diese Aussagen machen deutlich, dass die Schwierigkeiten beim Lesen und Schreibe
 
 Meiner Meinung nach ist es grundsätzlich sehr wichtig, dass Kinder, die eine LRS-Diagnose erhalten haben, in den Bereichen Lesen und Schreiben zusätzlich gefördert werden und Üben. Es ist aber nicht realistisch zu erwarten, dass die Symptome durch Üben und Trainieren ganz verschwinden.
 
- 
-
- 
-
 **Literaturverzeichnis:**
-
-
 
 **BVL Bundesverband Legasthenie & Dyskalkulie e.V.,** (2024). Abgerufen am 1.3.24 <https://www.bvl-legasthenie.de/legasthenie.html#content>
 
- 
-
 **Klicpera**, C., **Schabmann**, S., **Gasteiger-Klicpera**, B. (2003). *Legasthenie Modelle, Diagnose, Therapie und Förderung*. München: Ernst Reinhardt Verlag.
-
- 
 
 **Schleider**, K. (2009). *Lese-und Rechtschreibstörungen*. München: Reinhardt Verlag
 
- 
-
- 
-
 **Abbildungsverzeichnis:**
-
-
 
 **BVL Bundesverband Legasthenie & Dyskalkulie e.V.** (2024). Abgerufen am 1.3.24 <https://www.bvl-legasthenie.de/legasthenie.html#content>
