@@ -3,6 +3,7 @@ title = "Erörterung"
 date = "2024-03-04"
 draft = false
 pinned = false
+image = "bildschirmfoto-2024-03-04-um-12.53.41.png"
 +++
 Die Frage, mit der ich mich auseinandersetze ist, können Menschen mit Legasthenie/Lese-Rechtschreibschwäche ihre Defizite durch mehr Üben aufheben?
 
